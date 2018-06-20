@@ -4,6 +4,6 @@ def fizzbuzz (x)
   elsif x % 5 ==0
     puts "Buzz"
   elsif
-     x is % by 3 && 5 ==0
+     x is % by 3 && 5
     puts "FizzBuzz"
 end

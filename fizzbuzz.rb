@@ -5,7 +5,7 @@ def fizzbuzz (x)
     puts "buzz"
   elsif
      x is % by {3 && 5 ==0}
-    puts "fizzbuzz"
+    puts "FizzBuzz"
   else
 
   end

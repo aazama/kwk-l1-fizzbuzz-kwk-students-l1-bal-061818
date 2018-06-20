@@ -1,11 +1,11 @@
-def FizzBuzz (x)
+def fizzbuzz (x)
   if x % 3 ==0 && x % 5 ==0
-  puts "FizzBuzz"
+  puts "fizzbuzz"
   elsif
     x % 3 ==0
-    puts "Fizz"
+    puts "fizz"
   elsif x % 5 ==0
-    puts "Buzz"
+    puts "buzz"
   else
 
   end

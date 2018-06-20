@@ -1,9 +1,9 @@
 def fizzbuzz (x)
   if x % 3 ==0
-    puts "Fizz"
+    puts "fizz"
   elsif x % 5 ==0
-    puts "Buzz"
+    puts "buzz"
   elsif
-     x is % by 3 && 5
-    puts "FizzBuzz"
+     x is % by 3 && 5 ==0
+    puts "fizzbuzz"
 end
